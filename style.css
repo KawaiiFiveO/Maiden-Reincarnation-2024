@@ -1,0 +1,651 @@
+.b {
+    font-style: normal;
+    font-weight: bold
+    }
+.basic-text-frame {
+    border-bottom-style: solid;
+    border-bottom-width: 0;
+    border-left-style: solid;
+    border-left-width: 0;
+    border-right-style: solid;
+    border-right-width: 0;
+    border-top-style: solid;
+    border-top-width: 0;
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.bqf {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    font-family: Arial, sans-serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 18px;
+    margin-right: 18px;
+    margin-top: 18px;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none
+    }
+.bqs {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    font-family: Arial, sans-serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.4;
+    margin-bottom: 18px;
+    margin-left: 18px;
+    margin-right: 18px;
+    margin-top: 18px;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none
+    }
+.calibre {
+    -epub-hyphens: auto;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    display: block;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre3 {
+    display: block;
+    font-size: 1.29032em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em
+    }
+.calibre4 {
+    display: block;
+    list-style-type: decimal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre5 {
+    display: list-item
+    }
+.calibre6 {
+    display: block;
+    list-style-type: decimal;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0
+    }
+.cip {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    font-family: "Adobe Garamond Pro", serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none
+    }
+.cn {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    font-family: "Adobe Garamond Pro Bold", serif;
+    font-size: 1.54839em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.4;
+    margin-bottom: 1.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2.25em;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none
+    }
+.cs {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    font-family: "Adobe Garamond Pro Bold", serif;
+    font-size: 1.54839em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.4;
+    margin-bottom: 2.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2.25em;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none
+    }
+.ct {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    font-family: "Adobe Garamond Pro", serif;
+    font-size: 1.29032em;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.4;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none
+    }
+
+.preface {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    font-family: "Adobe Garamond Pro", serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.4;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 15px;
+    text-transform: none
+    }	
+
+.ded {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    font-family: "Adobe Garamond Pro", serif;
+    font-size: 0.77419em;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.4;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 3em;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none
+    }
+.ebk-cop {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    font-family: "Adobe Garamond Pro", serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 15px;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none
+    }
+.ebk-cover {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    font-family: "Adobe Garamond Pro Bold", serif;
+    font-size: 1.54839em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none
+    }
+.full {
+    height: 100%;
+    width: auto
+    }
+.i {
+    font-style: italic;
+    font-weight: normal
+    }
+.ltf {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    font-family: "Adobe Garamond Pro", serif;
+    font-size: 0.77419em;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.4;
+    margin-bottom: 0;
+    margin-left: 18px;
+    margin-right: 18px;
+    margin-top: 18px;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none
+    }
+.ltsig {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    font-family: "Adobe Garamond Pro", serif;
+    font-size: 0.77419em;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.4;
+    margin-bottom: 18px;
+    margin-left: 18px;
+    margin-right: 18px;
+    margin-top: 18px;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: right;
+    text-decoration: none;
+    text-indent: 15px;
+    text-transform: none
+    }
+.p {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    font-family: "Adobe Garamond Pro", serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.4;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 15px;
+    text-transform: none
+    }
+.paft {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    font-family: "Adobe Garamond Pro", serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.4;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none
+    }
+.pf {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    font-family: "Adobe Garamond Pro", serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.4;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 25px;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none
+    }
+.pn {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    font-family: "Adobe Garamond Pro Bold", serif;
+    font-size: 1.54839em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.4;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.5em;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none
+    }
+.rvt {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    font-family: "Adobe Garamond Pro", serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.4;
+    margin-bottom: 5px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: right;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none
+    }
+.toc {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    font-family: "Adobe Garamond Pro", serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.4;
+    margin-bottom: 15px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none
+    }
+.toc1 {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    font-family: "Adobe Garamond Pro", serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.4;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: none
+    }
+.ulf {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    font-family: "Adobe Garamond Pro", serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.4;
+    margin-bottom: 0;
+    margin-left: 36px;
+    margin-right: 18px;
+    margin-top: 9px;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -18px;
+    text-transform: none
+    }
+.ull {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    font-family: "Adobe Garamond Pro", serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.4;
+    margin-bottom: 14px;
+    margin-left: 36px;
+    margin-right: 18px;
+    margin-top: 9px;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -18px;
+    text-transform: none
+    }
+
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+
+.red {
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    display: block;
+    font-family: "Adobe Garamond Pro", serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.4;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 15px;
+    text-transform: none;
+	color: red;
+    }
